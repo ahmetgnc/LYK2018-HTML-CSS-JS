@@ -1,0 +1,47 @@
+
+
+.container{
+  width: 1920px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.container .back{
+  margin-top: 50px;
+  width: 600px;
+  height: 600px;
+  background-color: black;
+  border: 1px solid red;
+  border-radius: 50%;
+  text-align: center;
+
+}
+
+.container .inback{
+  display: inline-block;
+  text-align: center;
+  margin-top: 77px;
+  width: 450px;
+  height: 450px;
+  background-color:red;
+  border-radius: 50%;
+  border: 4px solid white;
+}
+
+.container .text{
+  border-radius: 25%
+}
+.container .back h1{
+padding-top: 150px;
+color: black;
+}
+.container button{
+margin-left: 7px;
+
+
+
+
+
+
+
+}
