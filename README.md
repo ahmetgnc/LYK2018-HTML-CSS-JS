@@ -1,3 +1,3 @@
 # LYK2018-HTML-CSS-JS
-https://ahmetgnc.github.io/LYK2018-HTML-CSS-JS/counter/index.html
-https://ahmetgnc.github.io/LYK2018-HTML-CSS-JS/mymedipet/index.html
+1. https://ahmetgnc.github.io/LYK2018-HTML-CSS-JS/counter/index.html
+2. https://ahmetgnc.github.io/LYK2018-HTML-CSS-JS/mymedipet/index.html
