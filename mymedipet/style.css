@@ -1,0 +1,158 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.clear {
+  clear: both;
+}
+
+body {
+  background-color: gray;
+  font-family: "Tahoma";
+  font-size: 16px;
+}
+
+.kapsayici{
+  width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ust{
+padding-top: 40px;
+}
+
+.ust h1{
+  font-size: 60px;
+  color: white;
+  text-align: center;
+}
+
+.ust ul{
+  padding-top: 15px;
+
+}
+
+
+.ust ul li{
+  display: inline-block;
+  margin-right: 7px;
+}
+.ust ul li a{
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  padding: 5px;
+}
+
+.ust ul li a:hover{
+  color: black;
+  background-color: lightblue;
+}
+.ust img{
+  padding-top: 15px;
+}
+.orta {
+  padding-top: 30px;
+
+}
+
+.orta_sol{
+padding-top: 20px;
+display: inline-block;
+float: left;
+width: 250px;
+background-color: #efefef;
+/*border-top-left-radius: 5px;*/
+border-radius: 8px 0 0 8px;
+}
+
+.orta_sol input{
+padding: 10px;
+  border: none;
+  margin-left: 10px;
+  border-radius: 10px;
+}
+.orta_sol #secach_img{
+
+  margin-bottom: -3px;
+}
+.orta_sol #secach_img:hover{
+  background-color: gray;
+
+
+}
+.orta_sol button{
+  background-color:white;
+  border: none;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom:10px;
+  margin-left: -24px;
+  border-radius: 10px;
+}
+.orta_sol button:hover{
+  background-color: gray;
+  border: 1px solid black;
+}
+
+.orta_sol h1{
+  color: black;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 10px;
+  font-weight: bold;
+}
+
+.orta_sol ul li{
+
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+.orta_sol ul li a{
+  color: green;
+  text-decoration: none;
+}
+.orta_sol ul li img{
+  padding-right: 3px;
+}
+.orta_sol #cat{
+  width: 250px;
+}
+
+.orta_sag{
+
+  padding-top: 20px;
+  display: inline-block;
+  float: right;
+  width: 690px;
+  background-color: white;
+  border-radius: 0 8px 8px 0;
+}
+.orta_sag #orta_sag_baslik{
+  font-size: 20px;
+  font-weight:bold;
+  padding-left: 30px;
+  padding-bottom: 15px;
+}
+.orta_sag .orta_sag_paragraf{
+  font-size: 13px;
+  padding-left: 30px;
+  line-height: 28px;
+}
+.orta_sag img{
+  padding-top: 20px;
+  width: 690px;
+}
+.footer p{
+  font-size: 13px;
+  color: white;
+  font-weight:bold;
+}
+.footer{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
